@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="reboot_confirm">Le téléphone va redémarrer</string>
+<string name="reboot_progress">Redémarrage...</string>
+<string name="resourcebrowser_lable">Ressources</string>
+<string name="sdcard_status_changed_dialog_title">L\'état de la carte SD a changé</string>
+<string name="sdcard_status_changed_dialog_message">Veuillez ouvrir cette application de nouveau pour rafraîchir les ressources.</string>
+<string name="resource_transparent_wallpaper">Transparent</string>
 <item type="string" name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</item>
 <item type="string" name="android_common_name_conjunctions">@android:string/common_name_conjunctions</item>
 <item type="string" name="android_common_name_prefixes">@android:string/common_name_prefixes</item>
