@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="reboot_confirm">Telefon wird neu gestartet</string>
+<string name="reboot_progress">Neustart...</string>
+<string name="resourcebrowser_lable">Quellen</string>
+<string name="sdcard_status_changed_dialog_title">SD-Karten Status geändert</string>
+<string name="sdcard_status_changed_dialog_message">Beenden. Bitte starten Sie diese App neu, um die Quellen zu aktualisieren.</string>
+<string name="resource_transparent_wallpaper">Durchsichtig</string>
+<string name="resource_mute">kein</string>
+<string name="resource_default">Standard-Klingelton</string>
+<string name="resource_ringtone_default">Klingeltöne</string>
+<string name="resource_notification_default">Benachrichtigungen</string>
+<string name="resource_alarm_default">Wecker</string>
+<string name="description_unknown">Unbekannt</string>
+<string name="description_missed">N/V</string>
+<string name="description_designer">Designer:</string>
+<string name="description_author">Autor:</string>
+<string name="description_size">Größe:</string>
+<string name="description_modifiedtime">Geändert:</string>
+<string name="description_download">Herunterladen:</string>
+<string name="description_version">Version:</string>
+<string name="description_file">Datei</string>
+<string name="resource_local">Lokal %1$s</string>
+<string name="resource_online">Online %1$s</string>
+<string name="resource_title">Quellendetail</string>
+<string name="resource_download">Herunterladen</string>
+<string name="resource_downloading">wird heruntergeladen</string>
+<string name="resource_apply">Übernehmen</string>
+<string name="resource_update">Aktualisieren</string>
+<string name="resource_select">Auswählen</string>
+<string name="online_hottest">Angesagte</string>
+<string name="online_latest">Neueste</string>
+<string name="online_hottest_short">Angesagte</string>
+<string name="online_latest_short">Neueste</string>
+<string name="online_no_network">Kann keine Verbindung zum Netzwerk herstellen</string>
+<string name="online_search_hint">Suche nach Online-Quelle</string>
+<string name="loading">Laden...</string>
+<string name="download_failed">Herunterladen fehlgeschlagen</string>
+<string name="download_preview_failed">Konnte Vorschau nicht laden</string>
+<string name="invalid_url">Ungültige URL</string>
+<string name="resource_delete_confirm">Sind Sie sicher, dass sie diese Quelle löschen möchten?</string>
+<string name="all_resources">Alles</string>
+<string name="resource_default_name">Quelle</string>
+<string name="resource_detail">Details</string>
+<string name="lockscreen_time_bottom_hint">Nach unten schieben zum Entsperren</string>
+<string name="lockscreen_call_bottom_hint">Nach unten schieben um das Wählprogramm zu starten</string>
+<string name="lockscreen_sms_bottom_hint">Nach unten schieben um das SMS-Programm zu starten</string>
+<string name="lock_screen_date">YYYY, MMMM d</string>
+<string name="lockscreen_unlock_sim_via_puk">Geben Sie den PUK-Code zum Entsperren der SIM-Karte ein</string>
+<string name="safetylegal_activity_unreachable">Ihr Telefon ist nicht mit einem Datendienst verbunden. Um diese Informationen zu sehen, gehen Sie von einem Computer, der mit dem Internet verbunden ist, auf %s.</string>
+<string name="miui_copyright_title">Urheberrecht</string>
+<string name="miui_user_agreement_title">Benutzervereinbarung</string>
+<string name="miui_privacy_policy_title">Datenschutzerklärung</string>
+<string name="user_agreement1">Sie werden das System und die Online-Dienste von Xiaomi verwenden, lesen Sie bitte</string>
+<string name="user_agreement2">" Benutzervereinbarung "</string>
+<string name="user_agreement3">" und "</string>
+<string name="user_agreement4">Datenschutzerklärung</string>
+<string name="user_agreement5">, mit Klicken auf OK zeigen Sie dass sie dem obigen Inhalt zustimmen, klicken sie auf ABBRECHEN um zu beenden.</string>
+<string name="sd_not_available">SD-Karte nicht verbunden oder nicht verfügbar</string>
+<string name="sd_not_available_use_internal_storage">SD-Karte nicht verfügbar, im internen Speicher gespeichert</string>
+<string name="sd_not_available_low_internal_storage">SD-Karte nicht verbunden oder nicht verfügbar, der interne Speicher hat nur wenig verfügbaren Speicherplatz</string>
+<string name="sd_not_available_saved_to_internal_storage">In den internen Speicher gespeichert</string>
+<string name="unknown">Unbekannte Rufnummer</string>
+<string name="private_num">Private Rufnummer</string>
+<string name="payphone">Münztelefon</string>
+<string name="callNoAnswerTimeFormat">klingelt %s Mal</string>
+<string name="date_day">T</string>
+<string name="lunar_calendar">Mondkalender</string>
+<string name="lunar_zheng">positiv</string>
+<string name="lunar_leap">Schalttag</string>
+<string name="lunar_ling">0</string>
+<string name="lunar_yi">1</string>
+<string name="lunar_er">2</string>
+<string name="lunar_san">3</string>
+<string name="lunar_si">4</string>
+<string name="lunar_wu">5</string>
+<string name="lunar_liu">6</string>
+<string name="lunar_qi">7</string>
+<string name="lunar_ba">8</string>
+<string name="lunar_jiu">9</string>
+<string name="lunar_shi">10</string>
+<string name="lunar_shi_yi">11</string>
+<string name="lunar_shi_er">12</string>
+<string name="lunar_chu_shi">1/10</string>
+<string name="lunar_er_shi">20</string>
+<string name="lunar_san_shi">30</string>
+<string name="lunar_chu">früh</string>
+<string name="lunar_nian">20</string>
+<string name="lunar_yue">Monat</string>
+<string name="lunar_year">Jahr</string>
+<string name="the_spring_festival">chinesisches Neujahrsfest</string>
+<string name="lantern_festival">Laternenfest </string>
+<string name="the_dragon_boat_festival">Drachenbootfest </string>
+<string name="double_seventh_day">Tanabata-Fest</string>
+<string name="the_mid_autumn_festival">Mondfest </string>
+<string name="the_double_ninth_festival">Chongyang-Fest </string>
+<string name="the_laba_rice_porridge_festival">Laba-Fest</string>
+<string name="new_years_day">Neujahrsfest (gregorianischer Kalender)</string>
+<string name="valentines_day">Valentinstag</string>
+<string name="international_womens_day">Weltfrauentag</string>
+<string name="arbor_day">Tag des Baumes</string>
+<string name="fools_day">1. April</string>
+<string name="labour_day">Tag der Arbeit</string>
+<string name="chinese_youth_day">Jugendfest</string>
+<string name="childrens_day">Weltkindertag</string>
+<string name="partys_day">Gründungstag</string>
+<string name="the_armys_day">Tag der Armee</string>
+<string name="teachers_day">Lehrertag</string>
+<string name="national_day">Staatsfeiertag</string>
+<string name="christmas_dad">Weihnachtsfest</string>
+<string name="slight_cold">Osamu-Fest</string>
+<string name="great_cold">die große Kälte</string>
+<string name="spring_begins">Frühlingsanfang</string>
+<string name="the_rains">Regenwasser</string>
+<string name="insects_awaken">das Erwachen der Insekten</string>
+<string name="vernal_equinox">Frühjahrs-Tagundnachtgleiche</string>
+<string name="clear_and_bright">Klar und Hell</string>
+<string name="grain_rain">Kornregen</string>
+<string name="summer_begins">Sommerbeginn</string>
+<string name="grain_buds">Xiaoman-Fest</string>
+<string name="grain_in_ear">Korn im Ohr</string>
+<string name="summer_solstice">Sommersonnenwende </string>
+<string name="slight_heat">kleine Hitze</string>
+<string name="great_heat">große Hitze</string>
+<string name="autumn_begins">Herbstbeginn</string>
+<string name="stopping_the_heat">Ende der Hitze</string>
+<string name="white_dews">weißes Tau</string>
+<string name="autumn_equinox">Herbst-Tagundnachtgleiche</string>
+<string name="cold_dews">kalter Tau</string>
+<string name="hoar_frost_falls">Frost</string>
+<string name="winter_begins">Winterbeginn</string>
+<string name="light_snow">leichter Schneefall</string>
+<string name="heavy_snow">starker Schneefall</string>
+<string name="winter_solstice">Wintersonnenwende</string>
+<string name="country_name_bs">Bahamas</string>
+<string name="country_name_bb">Barbados</string>
+<string name="country_name_ai">Anguilla</string>
+<string name="country_name_ag">Antigua und Barbuda</string>
+<string name="country_name_vg">Britische Jungferninseln</string>
+<string name="country_name_vi">Amerikanische Jungferninseln</string>
+<string name="country_name_ky">Kaimaninseln</string>
+<string name="country_name_bm">Bermuda</string>
+<string name="country_name_gd">Grenada</string>
+<string name="country_name_tc">Turks- und Caicosinseln</string>
+<string name="country_name_ms">Montserrat</string>
+<string name="country_name_mp">Nördliche Marianen</string>
+<string name="country_name_gu">Guam</string>
+<string name="country_name_as">Amerikanisch-Samoa</string>
+<string name="country_name_sx">Sint Maarten und Bonaire</string>
+<string name="country_name_lc">St. Lucia</string>
+<string name="country_name_dm">Dominica</string>
+<string name="country_name_vc">St. Vincent und die Grenadinen</string>
+<string name="country_name_pr">Puerto Rico</string>
+<string name="country_name_do">Dominikanische Republik</string>
+<string name="country_name_tt">Trinidad und Tobago</string>
+<string name="country_name_kn">St. Kitts und Nevis</string>
+<string name="country_name_jm">Jamaika</string>
+<string name="country_name_us_ca">Vereinigte Staaten</string>
+<string name="country_name_eg">Ägypten</string>
+<string name="country_name_ma">Marokko</string>
+<string name="country_name_dz">Algerien</string>
+<string name="country_name_tn">Tunesien</string>
+<string name="country_name_ly">Libyen</string>
+<string name="country_name_gm">Gambia</string>
+<string name="country_name_sn">Senegal</string>
+<string name="country_name_mr">Mauretanien</string>
+<string name="country_name_ml">Mali</string>
+<string name="country_name_gn">Guinea</string>
+<string name="country_name_ci">Elfenbeinküste</string>
+<string name="country_name_bf">Burkina Faso</string>
+<string name="country_name_ne">Niger</string>
+<string name="country_name_tg">Togo</string>
+<string name="country_name_bj">Benin</string>
+<string name="country_name_mu">Mauritius</string>
+<string name="country_name_lr">Liberia</string>
+<string name="country_name_sl">Sierra Leone</string>
+<string name="country_name_gh">Ghana</string>
+<string name="country_name_ng">Nigeria</string>
+<string name="country_name_td">Tschad</string>
+<string name="country_name_cf">Zentralafrikanische Republik</string>
+<string name="country_name_cm">Kamerun</string>
+<string name="country_name_cv">Kap Verde</string>
+<string name="country_name_st">São Tomé und Príncipe</string>
+<string name="country_name_gq">Äquatorialguinea</string>
+<string name="country_name_ga">Gabun</string>
+<string name="country_name_cg">Republik Kongo</string>
+<string name="country_name_cd">Demokratische Republik Kongo</string>
+<string name="country_name_ao">Angola</string>
+<string name="country_name_gw">Guinea-Bissau</string>
+<string name="country_name_io">Britisches Territorium im Indischen Ozean</string>
+<string name="country_name_ac">Ascension</string>
+<string name="country_name_sc">Seychellen</string>
+<string name="country_name_sd">Sudan</string>
+<string name="country_name_rw">Ruanda</string>
+<string name="country_name_et">Äthiopien</string>
+<string name="country_name_so">Somalia</string>
+<string name="country_name_dj">Dschibuti</string>
+<string name="country_name_ke">Kenia</string>
+<string name="country_name_tz">Tansania</string>
+<string name="country_name_ug">Uganda</string>
+<string name="country_name_bi">Burundi</string>
+<string name="country_name_mz">Mosambik</string>
+<string name="country_name_zm">Sambia</string>
+<string name="country_name_mg">Madagaskar</string>
+<string name="country_name_re_yt">Réunion Mayotte</string>
+<string name="country_name_zw">Simbabwe</string>
+<string name="country_name_na">Namibia</string>
+<string name="country_name_mw">Malawi</string>
+<string name="country_name_ls">Lesotho</string>
+<string name="country_name_bw">Botswana</string>
+<string name="country_name_sz">Swasiland</string>
+<string name="country_name_km">Komoren</string>
+<string name="country_name_za">Südafrika</string>
+<string name="country_name_sh">St. Helena</string>
+<string name="country_name_er">Eritrea</string>
+<string name="country_name_aw">Aruba</string>
+<string name="country_name_fo">Färöer</string>
+<string name="country_name_gl">Grönland</string>
+<string name="country_name_gr">Griechenland</string>
+<string name="country_name_nl">Niederlande</string>
+<string name="country_name_be">Belgien</string>
+<string name="country_name_fr">Frankreich</string>
+<string name="country_name_es">Spanien</string>
+<string name="country_name_gi">Gibraltar</string>
+<string name="country_name_pt">Portugal</string>
+<string name="country_name_lu">Luxemburg</string>
+<string name="country_name_ie">Irland</string>
+<string name="country_name_is">Island</string>
+<string name="country_name_al">Albanien</string>
+<string name="country_name_mt">Malta</string>
+<string name="country_name_cy">Zypern</string>
+<string name="country_name_fi">Finnland</string>
+<string name="country_name_bg">Bulgarien</string>
+<string name="country_name_hu">Ungarn</string>
+<string name="country_name_lt">Litauen</string>
+<string name="country_name_lv">Lettland</string>
+<string name="country_name_ee">Estland</string>
+<string name="country_name_md">Moldawien</string>
+<string name="country_name_am">Armenien</string>
+<string name="country_name_by">Weißrussland</string>
+<string name="country_name_ad">Andorra</string>
+<string name="country_name_mc">Monaco</string>
+<string name="country_name_sm">San Marino</string>
+<string name="country_name_ua">Ukraine</string>
+<string name="country_name_rs">Serbien</string>
+<string name="country_name_me">Montenegro</string>
+<string name="country_name_hr">Kroatien</string>
+<string name="country_name_si">Slowenien</string>
+<string name="country_name_ba">Bosnien und Herzegowina</string>
+<string name="country_name_mk">Mazedonien</string>
+<string name="country_name_va">Vatikanstadt</string>
+<string name="country_name_it">Italien</string>
+<string name="country_name_ro">Rumänien</string>
+<string name="country_name_ch">Schweiz</string>
+<string name="country_name_cz">Tschechien</string>
+<string name="country_name_sk">Slowakei</string>
+<string name="country_name_li">Liechtenstein</string>
+<string name="country_name_at">Österreich</string>
+<string name="country_name_gg">Guernsey</string>
+<string name="country_name_je">Jersey</string>
+<string name="country_name_im">Isle of Man</string>
+<string name="country_name_uk">Vereinigtes Königreich</string>
+<string name="country_name_dk">Dänemark</string>
+<string name="country_name_se">Schweden</string>
+<string name="country_name_no">Norwegen</string>
+<string name="country_name_pl">Polen</string>
+<string name="country_name_de">Deutschland</string>
+<string name="country_name_fk">Falklandinseln</string>
+<string name="country_name_bz">Belize</string>
+<string name="country_name_gt">Guatemala</string>
+<string name="country_name_sv">El Salvador</string>
+<string name="country_name_hn">Honduras</string>
+<string name="country_name_ni">Nicaragua</string>
+<string name="country_name_cr">Costa Rica</string>
+<string name="country_name_pa">Panama</string>
+<string name="country_name_pm">Saint-Pierre und Miquelon</string>
+<string name="country_name_ht">Haiti</string>
+<string name="country_name_pe">Peru</string>
+<string name="country_name_mx">Mexiko</string>
+<string name="country_name_cu">Kuba</string>
+<string name="country_name_ar">Argentinien</string>
+<string name="country_name_br">Brasilien</string>
+<string name="country_name_cl">Chile</string>
+<string name="country_name_co">Kolumbien</string>
+<string name="country_name_ve">Venezuela</string>
+<string name="country_name_gp_bl_mf">Guadeloupe </string>
+<string name="country_name_bo">Bolivien</string>
+<string name="country_name_gy">Guyana</string>
+<string name="country_name_ec">Ecuador</string>
+<string name="country_name_gf">Französisch-Guayana</string>
+<string name="country_name_py">Paraguay</string>
+<string name="country_name_mq">Martinique</string>
+<string name="country_name_sr">Suriname</string>
+<string name="country_name_uy">Uruguay</string>
+<string name="country_name_an">Niederländische Antillen</string>
+<string name="country_name_my">Malaysia</string>
+<string name="country_name_au">Australien</string>
+<string name="country_name_id">Indonesien</string>
+<string name="country_name_ph">Philippinen</string>
+<string name="country_name_nz">Neuseeland</string>
+<string name="country_name_sg">Singapur</string>
+<string name="country_name_th">Thailand</string>
+<string name="country_name_tl">Osttimor</string>
+<string name="country_name_bn">Brunei</string>
+<string name="country_name_nr">Nauru</string>
+<string name="country_name_pg">Papua-Neuguinea</string>
+<string name="country_name_to">Tonga</string>
+<string name="country_name_sb">Salomonen</string>
+<string name="country_name_vu">Vanuatu</string>
+<string name="country_name_fj">Fidschi</string>
+<string name="country_name_pw">Palau</string>
+<string name="country_name_wf">Wallis und Futuna</string>
+<string name="country_name_ck">Cookinseln</string>
+<string name="country_name_nu">Niue</string>
+<string name="country_name_ws">Samoa</string>
+<string name="country_name_ki">Kiribati</string>
+<string name="country_name_nc">Neukaledonien</string>
+<string name="country_name_tv">Tuvalu</string>
+<string name="country_name_pf">Französisch-Polynesien</string>
+<string name="country_name_tk">Tokelau</string>
+<string name="country_name_fm">Mikronesien</string>
+<string name="country_name_mh">Marshallinseln</string>
+<string name="country_name_ru_kz">Russland Kasachstan</string>
+<string name="country_name_jp">Japan</string>
+<string name="country_name_kr">Südkorea</string>
+<string name="country_name_vn">Vietnam</string>
+<string name="country_name_kp">Nordkorea</string>
+<string name="country_name_hk">Hongkong</string>
+<string name="country_name_mo">Macao</string>
+<string name="country_name_kh">Kambodscha</string>
+<string name="country_name_la">Laos</string>
+<string name="country_name_cn">China</string>
+<string name="country_name_bd">Bangladesch</string>
+<string name="country_name_tw">Republik China - Taiwan</string>
+<string name="country_name_tr">Türkei</string>
+<string name="country_name_in">Indien</string>
+<string name="country_name_pk">Pakistan</string>
+<string name="country_name_af">Afghanistan</string>
+<string name="country_name_lk">Sri Lanka</string>
+<string name="country_name_mm">Myanmar</string>
+<string name="country_name_mv">Malediven</string>
+<string name="country_name_lb">Libanon</string>
+<string name="country_name_jo">Jordanien</string>
+<string name="country_name_sy">Syrien</string>
+<string name="country_name_iq">Irak</string>
+<string name="country_name_kw">Kuwait</string>
+<string name="country_name_sa">Saudi-Arabien</string>
+<string name="country_name_ye">Jemen</string>
+<string name="country_name_om">Oman</string>
+<string name="country_name_ps">Palästinensische Autonomiegebiete</string>
+<string name="country_name_ae">Vereinigte Arabische Emirate</string>
+<string name="country_name_il">Israel</string>
+<string name="country_name_bh">Bahrain</string>
+<string name="country_name_qa">Katar</string>
+<string name="country_name_bt">Bhutan</string>
+<string name="country_name_mn">Mongolei</string>
+<string name="country_name_np">Nepal</string>
+<string name="country_name_ir">Iran</string>
+<string name="country_name_tj">Tadschikistan</string>
+<string name="country_name_tm">Turkmenistan</string>
+<string name="country_name_az">Aserbaidschan</string>
+<string name="country_name_ge">Georgien</string>
+<string name="country_name_kg">Kirgisistan</string>
+<string name="country_name_uz">Usbekistan</string>
+<string name="firewall_setting">Firewall</string>
+<string name="keyguard_incorrect_pin_with_retry_count">Versuche übrig %d</string>
+<string name="caller_info_name_delimiter">oder</string>
+<string name="first_back_long_press_title">Verhalten der Eingabetaste</string>
+<string name="first_back_long_press_message">"Wollen Sie die Funktion des langen Drückens der Zurück-Taste, um den aktuellen Prozess und seine Dienste im Hintergrund zu beenden aktivieren? Aktivieren Sie die Funktion über Alle Einstellungen> Gerät > Tasten Option"</string>
+<string name="force_exit_message">Erfolgreich beendet \"%1$s\"</string>
+<string name="global_action_toggle_privacy_mode">Wächter</string>
+<string name="global_action_privacy_mode_on_status">Wächtermodus ist EIN</string>
+<string name="global_action_privacy_mode_on_toast">Wächtermodus ist aktiviert. Anrufe und Textnachrichten werden versteckt und der Launcher kann nicht bearbeitet werden.</string>
+<string name="global_action_privacy_mode_dialog_message">Im Wächtermodus werden Anrufe und Textnachrichten versteckt und der Launcher kann nicht bearbeitet werden.</string>
+<string name="global_action_privacy_mode_off_status">Wächtermodus ist AUS</string>
+<string name="delete">Löschen</string>
+<string name="select_all">Alles auswählen</string>
+<string name="reverse_all">Alles abwählen</string>
+<string name="multi_select_title">Ausgewählt %1$s</string>
+<item type="string" name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</item>
+<string name="android_kilobyteShort">@android:string/kilobyteShort</string>
+<item type="string" name="android_common_name_conjunctions">@android:string/common_name_conjunctions</item>
+<item type="string" name="android_common_name_prefixes">@android:string/common_name_prefixes</item>
+<item type="string" name="android_common_name_suffixes">@android:string/common_name_suffixes</item>
+<item type="string" name="android_dial_number_using">@android:string/dial_number_using</item>
+<item type="string" name="android_factorytest_reboot">@android:string/factorytest_reboot</item>
+<item type="string" name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</item>
+<item type="string" name="android_global_actions_airplane_mode_on_status">@android:string/global_actions_airplane_mode_on_status</item>
+<item type="string" name="android_global_actions_toggle_airplane_mode">@android:string/global_actions_toggle_airplane_mode</item>
+<item type="string" name="android_lockscreen_charged">@android:string/lockscreen_charged</item>
+<item type="string" name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</item>
+<item type="string" name="android_lockscreen_instructions_when_pattern_disabled">@android:string/lockscreen_instructions_when_pattern_disabled</item>
+<item type="string" name="android_lockscreen_low_battery">@android:string/lockscreen_low_battery</item>
+<item type="string" name="android_lockscreen_missing_sim_instructions">@android:string/lockscreen_missing_sim_instructions</item>
+<item type="string" name="android_lockscreen_missing_sim_message_short">@android:string/lockscreen_missing_sim_message_short</item>
+<item type="string" name="android_lockscreen_network_locked_message">@android:string/lockscreen_network_locked_message</item>
+<item type="string" name="android_lockscreen_plugged_in">@android:string/lockscreen_plugged_in</item>
+<item type="string" name="android_lockscreen_sim_locked_message">@android:string/lockscreen_sim_locked_message</item>
+<item type="string" name="android_lockscreen_sim_puk_locked_instructions">@android:string/lockscreen_sim_puk_locked_instructions</item>
+<item type="string" name="android_lockscreen_sim_puk_locked_message">@android:string/lockscreen_sim_puk_locked_message</item>
+<item type="string" name="android_megabyteShort">@android:string/megabyteShort</item>
+<item type="string" name="android_power_off">@android:string/power_off</item>
+<item type="string" name="android_report">@android:string/report</item>
+<item type="string" name="android_ringtone_default_with_actual">@android:string/ringtone_default_with_actual</item>
+<item type="string" name="android_ringtone_silent">@android:string/ringtone_silent</item>
+<item type="string" name="android_ringtone_unknown">@android:string/ringtone_unknown</item>
+<item type="string" name="android_shutdown_confirm">@android:string/shutdown_confirm</item>
+<item type="string" name="android_silent_mode_ring">@android:string/silent_mode_ring</item>
+<item type="string" name="android_silent_mode_silent">@android:string/silent_mode_silent</item>
+<item type="string" name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</item>
+<item type="string" name="android_ssl_certificate">@android:string/ssl_certificate</item>
+<item type="string" name="android_twelve_hour_time_format">@android:string/twelve_hour_time_format</item>
+<item type="string" name="android_twenty_four_hour_time_format">@android:string/twenty_four_hour_time_format</item>
+<item type="string" name="android_volume_alarm">@android:string/volume_alarm</item>
+<item type="string" name="android_volume_icon_description_bluetooth">@android:string/volume_icon_description_bluetooth</item>
+<item type="string" name="android_volume_icon_description_incall">@android:string/volume_icon_description_incall</item>
+<item type="string" name="android_volume_icon_description_media">@android:string/volume_icon_description_media</item>
+<item type="string" name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</item>
+<item type="string" name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</item>
+<item type="string" name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</item>
+<item type="string" name="android_phoneTypeMms">@android:string/phoneTypeMms</item>
+<string name="sim_account_name">SIM</string>
+<string name="android_yesterday">@android:string/yesterday</string>
+<string name="android_tomorrow">@android:string/tomorrow</string>
+</resources>
