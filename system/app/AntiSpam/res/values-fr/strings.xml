@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">Anti-spam</string>
+<string name="app_name">Anti Spam</string>
 <string name="firewall_settings_tab_title">Filtres</string>
 <string name="black_white_list_tab_title">Liste noire</string>
 <string name="call_log_tab_title">Appels</string>
