@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">Update Me</string>
+    <string name="app_version">1.1.0</string>
+    <string name="enable_quick_apps">Enable Quick Apps</string>
+    <string name="enable_recent_screenshoot">Enable Screenshot on Recent App button</string>
+    <string name="enable_recent_screenshoot_desc">Take screenshot by long-pressing Recent Apps button</string>
+    <string name="check_rom_update">Check for ROM update</string>
+    <string name="exit">Exit</string>
+    <string name="info">Info</string>
+    <string name="kernel">Kernel</string>
+    <string name="costumization">Costomization</string>
+    <string name="settings">Settings</string>
+    <string name="downloading_file">Downloading file....</string>
+    <string name="md5_ok">MD5 check passed</string>
+    <string name="md5_error">MD5 check failed</string>
+    <string name="file_downloaded">File downloaded to:</string>
+    <string name="reboot_to_recovery">Do you want to reboot to recovery?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_rom">New ROM Version available</string>
+    <string name="download_new_rom">Download new ROM version</string>
+    <string name="changelog">Changelog</string>
+    <string name="reload_apps">Reload apps</string>
+    <string name="check_rom_startup">Check new Rom on startup</string>
+    <string name="choose_download_dir">Choose download dir</string>
+    <string name="reboot_recovery">Reboot to recovery</string>
+    <string name="donate">Donate</string>
+    <string name="no_update_available">No update available</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ICS Control Panel</string>
+    <string name="show_battery_title">Show battery</string>
+    <string name="show_battery_summary">Turn off to hide battery</string>
+    <string name="statusbar_layout">Statusbar layout</string>
+    <string name="misc_options">Miscellaneous options</string>
+    <string name="show_clock_title">Show clock</string>
+    <string name="show_clock_summary">Turn off to hide clock</string>
+    <string name="notify_adb">Notification</string>
+    <string name="notify_adb_summary">Display notification when debugging is enabled</string>
+    <string name="show_carrier_title">Show carrier</string>
+    <string name="show_carrier_summary">Turn off to hide carrier</string>
+    <string name="custom_carrier">Custom carrier</string>
+    <string name="custom_carrier_summary">Specify your own carrier description</string>
+    <string name="custom_carrier_text">Custom carrier text</string>
+    <string name="custom_carrier_logo">Display carrier logo</string>
+    <string name="custom_carrier_logo_summary">Display carrier image instead of text</string>
+    <string name="notification_bar_date_format">Notification bar date format</string>
+    <string name="lockscreen_date_format">Lockscreen date format</string>
+    <string name="date_format_options">Date format options</string>
+    <string name="show_alarm_title">Show alarm icon</string>
+    <string name="show_alarm_summary">Turn off to hide alarm icon</string>
+    <string name="carrier_options">Carrier options</string>
+    <string name="clock_colour">Choose clock colour</string>
+    <string name="battery_colour">Choose top-bar colour</string>
+    <string name="battery_indicator_style">Battery indicator style</string>
+    <string name="carrier_colour">Choose carrier text colour</string>
+    <string name="title">Statusbar options</string>
+    <string name="battery_options">Battery options</string>
+    <string name="clock_options">Clock options</string>
+    <string name="about_title">About</string>
+    <string name="about_summary">About this application</string>
+    <string name="clock_format">Clock format</string>
+    <string name="ui_overscroll_title">Overscroll options</string>
+    <string name="pref_overscroll_title">Overscroll effect</string>
+    <string name="pref_overscroll_summary">Choose how scrollable objects look when they overshoot</string>
+    <string name="pref_overscroll_weight_title">Overscrolling weight</string>
+    <string name="pref_overscroll_weight_summary">Select the weight of the scrollable objects</string>
+    <string name="date_help">"Here's some example Date Formats:- 
+For the month of September:
+M -> 9
+MM -> 09
+MMM -> Sep
+MMMM -> September
+For 7 minutes past the hour:
+m -> 7 
+mm -> 07 
+Examples for April 6, 2011 at 15:23
+MM/dd/yy HH:mma -> 04/06/11 15:23am
+MMM dd,yy hh:mm -> Apr 6,11 3:23
+MMMM dd,HH:mm -> April 6,15:23
+E,MMMM dd,yy hh:mm -> Mon,April 6,11 3:23
+EEEE, MMMM dd -> Monday, April 6
+'Date: 'd/M/yy -> Date: 6/4/11"</string>
+    <string name="choose_color">Colour options</string>
+    <string name="choose_wallpaper_color">Choose wallpaper colour</string>
+    <string name="use_custom_title">Choose statusbar colour</string>
+    <string name="use_custom_summary">Turn on to choose custom statusbar colour</string>
+    <string name="choose_statusbar_color">Choose statusbar colour</string>
+    <string name="pref_key_resetSettings">pref_key_resetSettings</string>
+    <string name="pref_key_hiddenApps">pref_key_hiddenApps</string>
+    <string name="dialog_resetSettings">This will replace all settings with the default value. Are you sure you want to continue?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="pref_key_statusBarHeight">statusBarHeight</string>
+    <string name="pref_key_root">pref_key_root</string>
+    <string name="app_drawer">App drawer options</string>
+    <string name="app_drawer_title">App drawer options</string>
+    <string name="pref_default_appsPerRow">4</string>
+    <string name="pref_title_hiddenApps">Hidden Apps</string>
+    <string name="pref_summary_hiddenApps">Select apps to hide from the app drawer</string>
+    <string name="pref_key_pulldownLocation">pref_key_pulldownLocation</string>
+    <string name="pref_title_pulldownLocation">Pulldown Location</string>
+    <string name="pref_summary_pulldownLocation">Select the location of the app drawer</string>
+    <string name="pref_key_startonBoot">pref_key_startonBoot</string>
+    <string name="gravity_left">Left</string>
+    <string name="gravity_right">Right</string>
+    <string name="gravity_center">Center</string>
+    <string name="start">Enable</string>
+    <string name="stop">Disable</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="check_all">Check All</string>
+    <string name="uncheck_all">Uncheck All</string>
+    <string name="loading_apps">Loading apps. Please wait...</string>
+    <string name="show_headset_title">Show headset icon</string>
+    <string name="show_headset_summary">Turn off to hide headset icon</string>
+    <string name="show_signal_title">Show signal icon</string>
+    <string name="show_signal_summary">Turn off to hide signal icon</string>
+    <string name="drawer_colour">Choose app drawer background</string>
+    <string name="version_help">Version 1.0.0</string>
+    <string name="startonBoot">Auto start</string>
+    <string name="pref_summary_startonBoot">Check to enable app drawer on startup</string>
+</resources>

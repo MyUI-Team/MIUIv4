@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="reboot_confirm">Telefon wird neu gestartet</string>
+<string name="reboot_progress">Neustart...</string>
+<string name="resourcebrowser_lable">Quellen</string>
+<string name="sdcard_status_changed_dialog_title">SD-Karten Status geändert</string>
+<string name="sdcard_status_changed_dialog_message">Beenden. Bitte starten Sie diese App neu, um die Quellen zu aktualisieren.</string>
+<string name="resource_transparent_wallpaper">Durchsichtig</string>
+<string name="resource_mute">kein</string>
+<string name="resource_default">Standard-Klingelton</string>
+<string name="resource_ringtone_default">Klingeltöne</string>
+<string name="resource_notification_default">Benachrichtigungen</string>
+<string name="resource_alarm_default">Wecker</string>
+<string name="description_unknown">Unbekannt</string>
+<string name="description_missed">N/V</string>
+<string name="description_designer">Designer:</string>
+<string name="description_author">Autor:</string>
+<string name="description_size">Größe:</string>
+<string name="description_modifiedtime">Geändert:</string>
+<string name="description_download">Herunterladen:</string>
+<string name="description_version">Version:</string>
+<string name="description_file">Datei</string>
+<string name="resource_local">Lokal %1$s</string>
+<string name="resource_online">Online %1$s</string>
+<string name="resource_title">Quellendetail</string>
+<string name="resource_download">Herunterladen</string>
+<string name="resource_downloading">wird heruntergeladen</string>
+<string name="resource_apply">Übernehmen</string>
+<string name="resource_update">Aktualisieren</string>
+<string name="resource_select">Auswählen</string>
+<string name="online_hottest">Angesagte</string>
+<string name="online_latest">Neueste</string>
+<string name="online_hottest_short">Angesagte</string>
+<string name="online_latest_short">Neueste</string>
+<string name="online_no_network">Kann keine Verbindung zum Netzwerk herstellen</string>
+<string name="online_search_hint">Suche nach Online-Quelle</string>
+<string name="loading">Laden...</string>
+<string name="download_failed">Herunterladen fehlgeschlagen</string>
+<string name="download_preview_failed">Konnte Vorschau nicht laden</string>
+<string name="invalid_url">Ungültige URL</string>
+<string name="resource_delete_confirm">Sind Sie sicher, dass sie diese Quelle löschen möchten?</string>
+<string name="all_resources">Alles</string>
+<string name="resource_default_name">Quelle</string>
+<string name="resource_detail">Details</string>
+<string name="lockscreen_time_bottom_hint">Nach unten schieben zum Entsperren</string>
+<string name="lockscreen_call_bottom_hint">Nach unten schieben um das Wählprogramm zu starten</string>
+<string name="lockscreen_sms_bottom_hint">Nach unten schieben um das SMS-Programm zu starten</string>
+<string name="lock_screen_date">YYYY, MMMM d</string>
+<string name="lockscreen_unlock_sim_via_puk">Geben Sie den PUK-Code zum Entsperren der SIM-Karte ein</string>
+<string name="safetylegal_activity_unreachable">Ihr Telefon ist nicht mit einem Datendienst verbunden. Um diese Informationen zu sehen, gehen Sie von einem Computer, der mit dem Internet verbunden ist, auf %s.</string>
+<string name="miui_copyright_title">Urheberrecht</string>
+<string name="miui_user_agreement_title">Benutzervereinbarung</string>
+<string name="miui_privacy_policy_title">Datenschutzerklärung</string>
+<string name="user_agreement1">Sie werden das System und die Online-Dienste von Xiaomi verwenden, lesen Sie bitte</string>
+<string name="user_agreement2">" Benutzervereinbarung "</string>
+<string name="user_agreement3">" und "</string>
+<string name="user_agreement4">Datenschutzerklärung</string>
+<string name="user_agreement5">, mit Klicken auf OK zeigen Sie dass sie dem obigen Inhalt zustimmen, klicken sie auf ABBRECHEN um zu beenden.</string>
+<string name="sd_not_available">SD-Karte nicht verbunden oder nicht verfügbar</string>
+<string name="sd_not_available_use_internal_storage">SD-Karte nicht verfügbar, im internen Speicher gespeichert</string>
+<string name="sd_not_available_low_internal_storage">SD-Karte nicht verbunden oder nicht verfügbar, der interne Speicher hat nur wenig verfügbaren Speicherplatz</string>
+<string name="sd_not_available_saved_to_internal_storage">In den internen Speicher gespeichert</string>
+<string name="unknown">Unbekannte Rufnummer</string>
+<string name="private_num">Private Rufnummer</string>
+<string name="payphone">Münztelefon</string>
+<string name="callNoAnswerTimeFormat">klingelt %s Mal</string>
+<string name="date_day">T</string>
+<string name="lunar_calendar">Mondkalender</string>
+<string name="lunar_zheng">positiv</string>
+<string name="lunar_leap">Schalttag</string>
+<string name="lunar_ling">0</string>
+<string name="lunar_yi">1</string>
+<string name="lunar_er">2</string>
+<string name="lunar_san">3</string>
+<string name="lunar_si">4</string>
+<string name="lunar_wu">5</string>
+<string name="lunar_liu">6</string>
+<string name="lunar_qi">7</string>
+<string name="lunar_ba">8</string>
+<string name="lunar_jiu">9</string>
+<string name="lunar_shi">10</string>
+<string name="lunar_shi_yi">11</string>
+<string name="lunar_shi_er">12</string>
+<string name="lunar_chu_shi">1/10</string>
+<string name="lunar_er_shi">20</string>
+<string name="lunar_san_shi">30</string>
+<string name="lunar_chu">früh</string>
+<string name="lunar_nian">20</string>
+<string name="lunar_yue">Monat</string>
+<string name="lunar_year">Jahr</string>
+<string name="the_spring_festival">chinesisches Neujahrsfest</string>
+<string name="lantern_festival">Laternenfest </string>
+<string name="the_dragon_boat_festival">Drachenbootfest </string>
+<string name="double_seventh_day">Tanabata-Fest</string>
+<string name="the_mid_autumn_festival">Mondfest </string>
+<string name="the_double_ninth_festival">Chongyang-Fest </string>
+<string name="the_laba_rice_porridge_festival">Laba-Fest</string>
+<string name="new_years_day">Neujahrsfest (gregorianischer Kalender)</string>
+<string name="valentines_day">Valentinstag</string>
+<string name="international_womens_day">Weltfrauentag</string>
+<string name="arbor_day">Tag des Baumes</string>
+<string name="fools_day">1. April</string>
+<string name="labour_day">Tag der Arbeit</string>
+<string name="chinese_youth_day">Jugendfest</string>
+<string name="childrens_day">Weltkindertag</string>
+<string name="partys_day">Gründungstag</string>
+<string name="the_armys_day">Tag der Armee</string>
+<string name="teachers_day">Lehrertag</string>
+<string name="national_day">Staatsfeiertag</string>
+<string name="christmas_dad">Weihnachtsfest</string>
+<string name="slight_cold">Osamu-Fest</string>
+<string name="great_cold">die große Kälte</string>
+<string name="spring_begins">Frühlingsanfang</string>
+<string name="the_rains">Regenwasser</string>
+<string name="insects_awaken">das Erwachen der Insekten</string>
+<string name="vernal_equinox">Frühjahrs-Tag- und Nacht- Gleiche</string>
+<string name="clear_and_bright">Ching Ming-Fest</string>
+<string name="grain_rain">Guyu-Fest</string>
+<string name="summer_begins">Sommerbeginn</string>
+<string name="grain_buds">Xiaoman-Fest</string>
+<string name="grain_in_ear">Korn im Ohr</string>
+<string name="summer_solstice">Sommersonnenwende </string>
+<item type="string" name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</item>
+<item type="string" name="android_common_name_conjunctions">@android:string/common_name_conjunctions</item>
+<item type="string" name="android_common_name_prefixes">@android:string/common_name_prefixes</item>
+<item type="string" name="android_common_name_suffixes">@android:string/common_name_suffixes</item>
+<item type="string" name="android_dial_number_using">@android:string/dial_number_using</item>
+<item type="string" name="android_factorytest_reboot">@android:string/factorytest_reboot</item>
+<item type="string" name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</item>
+<item type="string" name="android_global_actions_airplane_mode_on_status">@android:string/global_actions_airplane_mode_on_status</item>
+<item type="string" name="android_global_actions_toggle_airplane_mode">@android:string/global_actions_toggle_airplane_mode</item>
+<item type="string" name="android_lockscreen_charged">@android:string/lockscreen_charged</item>
+<item type="string" name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</item>
+<item type="string" name="android_lockscreen_instructions_when_pattern_disabled">@android:string/lockscreen_instructions_when_pattern_disabled</item>
+<item type="string" name="android_lockscreen_low_battery">@android:string/lockscreen_low_battery</item>
+<item type="string" name="android_lockscreen_missing_sim_instructions">@android:string/lockscreen_missing_sim_instructions</item>
+<item type="string" name="android_lockscreen_missing_sim_message_short">@android:string/lockscreen_missing_sim_message_short</item>
+<item type="string" name="android_lockscreen_network_locked_message">@android:string/lockscreen_network_locked_message</item>
+<item type="string" name="android_lockscreen_plugged_in">@android:string/lockscreen_plugged_in</item>
+<item type="string" name="android_lockscreen_sim_locked_message">@android:string/lockscreen_sim_locked_message</item>
+<item type="string" name="android_lockscreen_sim_puk_locked_instructions">@android:string/lockscreen_sim_puk_locked_instructions</item>
+<item type="string" name="android_lockscreen_sim_puk_locked_message">@android:string/lockscreen_sim_puk_locked_message</item>
+<item type="string" name="android_megabyteShort">@android:string/megabyteShort</item>
+<item type="string" name="android_power_off">@android:string/power_off</item>
+<item type="string" name="android_report">@android:string/report</item>
+<item type="string" name="android_ringtone_default_with_actual">@android:string/ringtone_default_with_actual</item>
+<item type="string" name="android_ringtone_silent">@android:string/ringtone_silent</item>
+<item type="string" name="android_ringtone_unknown">@android:string/ringtone_unknown</item>
+<item type="string" name="android_shutdown_confirm">@android:string/shutdown_confirm</item>
+<item type="string" name="android_silent_mode_ring">@android:string/silent_mode_ring</item>
+<item type="string" name="android_silent_mode_silent">@android:string/silent_mode_silent</item>
+<item type="string" name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</item>
+<item type="string" name="android_ssl_certificate">@android:string/ssl_certificate</item>
+<item type="string" name="android_twelve_hour_time_format">@android:string/twelve_hour_time_format</item>
+<item type="string" name="android_twenty_four_hour_time_format">@android:string/twenty_four_hour_time_format</item>
+<item type="string" name="android_volume_alarm">@android:string/volume_alarm</item>
+<item type="string" name="android_volume_icon_description_bluetooth">@android:string/volume_icon_description_bluetooth</item>
+<item type="string" name="android_volume_icon_description_incall">@android:string/volume_icon_description_incall</item>
+<item type="string" name="android_volume_icon_description_media">@android:string/volume_icon_description_media</item>
+<item type="string" name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</item>
+<item type="string" name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</item>
+<item type="string" name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</item>
+<item type="string" name="android_phoneTypeMms">@android:string/phoneTypeMms</item>
+</resources>

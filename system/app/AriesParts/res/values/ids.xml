@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="color_red_text">false</item>
+    <item type="id" name="color_red_value">false</item>
+    <item type="id" name="color_red_seekbar">false</item>
+    <item type="id" name="color_green_text">false</item>
+    <item type="id" name="color_green_value">false</item>
+    <item type="id" name="color_green_seekbar">false</item>
+    <item type="id" name="color_blue_text">false</item>
+    <item type="id" name="color_blue_value">false</item>
+    <item type="id" name="color_blue_seekbar">false</item>
+    <item type="id" name="color_tuning_preview">false</item>
+    <item type="id" name="color_red_gamma_text">false</item>
+    <item type="id" name="color_red_gamma_value">false</item>
+    <item type="id" name="color_red_gamma_seekbar">false</item>
+    <item type="id" name="color_green_gamma_text">false</item>
+    <item type="id" name="color_green_gamma_value">false</item>
+    <item type="id" name="color_green_gamma_seekbar">false</item>
+    <item type="id" name="color_blue_gamma_text">false</item>
+    <item type="id" name="color_blue_gamma_value">false</item>
+    <item type="id" name="color_blue_gamma_seekbar">false</item>
+</resources>

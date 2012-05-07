@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="project_picker_item_overlay_vertical_inset">20.0dip</dimen>
+    <dimen name="project_picker_item_overlay_horizontal_inset">20.0dip</dimen>
+    <dimen name="project_picker_item_overlay_height">28.0dip</dimen>
+    <dimen name="project_picker_item_font_size">14.0sp</dimen>
+</resources>

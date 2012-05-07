@@ -368,7 +368,6 @@
     <public type="drawable" name="thumbnail_frame" id="0x03020112" />
     <public type="drawable" name="ab_home_up" id="0x03020113" />
     <public type="drawable" name="ab_home_up_divider" id="0x03020114" />
-    <public type="drawable" name="dropdown_normal_holo_light" id="0x03020115" />
     <public type="drawable" name="ic_menu_trash_holo_light" id="0x03020116" />
     <public type="drawable" name="ic_audio_ring_notif_vibrate" id="0x03020117" />
     <public type="drawable" name="ic_audio_vol" id="0x03020118" />
@@ -395,7 +394,6 @@
     <public type="drawable" name="ic_audio_phone" id="0x0302015a" />
     <public type="drawable" name="ic_audio_ring_notif" id="0x0302015b" />
     <public type="drawable" name="ic_audio_ring_notif_mute" id="0x0302015c" />
-    <public type="drawable" name="dropdown_pressed_holo_light" id="0x0302016a" />
     <public type="drawable" name="list_large_top_item_background_normal" id="0x03020172" />
     <public type="drawable" name="list_large_top_item_background_pressed" id="0x03020173" />
     <public type="drawable" name="list_large_top_item_background_checked" id="0x03020174" />
@@ -453,14 +451,17 @@
     <public type="drawable" name="tab_bg" id="0x030201b8" />
     <public type="drawable" name="tab_divider" id="0x030201b9" />
     <public type="drawable" name="title" id="0x030201ba" />
-    <public type="drawable" name="expander_open_holo_light" id="0x030201bc" />
-    <public type="drawable" name="expander_close_holo_light" id="0x030201bd" />
+    <public type="drawable" name="expander_group_header_bg" id="0x030201bf" />
     <public type="drawable" name="rounded_corner_bottom_left" id="0x030200df" />
     <public type="drawable" name="rounded_corner_bottom_right" id="0x030200e0" />
     <public type="drawable" name="rounded_corner_top_left" id="0x030200e1" />
     <public type="drawable" name="rounded_corner_top_right" id="0x030200e2" />
+    <public type="drawable" name="dropdown_normal_holo_light" id="0x03020115" />
+    <public type="drawable" name="dropdown_pressed_holo_light" id="0x0302016a" />
     <public type="drawable" name="list_item_detail_arrow_normal" id="0x03020191" />
     <public type="drawable" name="list_item_detail_arrow_pressed" id="0x03020192" />
+    <public type="drawable" name="expander_open_holo_light" id="0x030201bc" />
+    <public type="drawable" name="expander_close_holo_light" id="0x030201bd" />
     <public type="drawable" name="orientation_lock" id="0x030200c0" />
     <public type="drawable" name="orientation_unlock" id="0x030200c1" />
     <public type="layout" name="contact_header" id="0x03030000" />
@@ -537,7 +538,6 @@
     <public type="array" name="mobile_operator_numeric_equivalencies" id="0x03060007" />
     <public type="array" name="android_config_longPressVibePattern" id="0x03060008" />
     <public type="array" name="android_config_keyboardTapVibePattern" id="0x03060009" />
-    <public type="array" name="android_config_statusBarIcons" id="0x0306000a" />
     <public type="color" name="secondary_tab_text_color" id="0x03070000" />
     <public type="color" name="secondary_tab_text_pressed_color" id="0x03070001" />
     <public type="color" name="guide_popup_window_textColor" id="0x03070002" />
@@ -774,16 +774,6 @@
     <public type="id" name="deleteButton" id="0x030b0089" />
     <public type="id" name="action_select_all" id="0x030b008a" />
     <public type="id" name="delete" id="0x030b008b" />
-    <public type="id" name="flag" id="0x030b008c" />
-    <public type="id" name="titleContent" id="0x030b008d" />
-    <public type="id" name="titlePrevious" id="0x030b008e" />
-    <public type="id" name="titleNext" id="0x030b008f" />
-    <public type="id" name="detaillayout" id="0x030b0090" />
-    <public type="id" name="scrollview" id="0x030b0091" />
-    <public type="id" name="parentlayout" id="0x030b0092" />
-    <public type="id" name="componentGrid" id="0x030b0093" />
-    <public type="id" name="resourcefile" id="0x030b0094" />
-    <public type="id" name="componentTitle" id="0x030b0095" />
     <public type="string" name="reboot_confirm" id="0x030c0000" />
     <public type="string" name="reboot_progress" id="0x030c0001" />
     <public type="string" name="resourcebrowser_lable" id="0x030c0002" />

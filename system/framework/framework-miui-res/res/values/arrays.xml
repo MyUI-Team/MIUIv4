@@ -5,6 +5,8 @@
         <item>46001</item>
         <item>46002</item>
         <item>46003</item>
+        <item>46005</item>
+        <item>46006</item>
         <item>46007</item>
         <item>46009</item>
     </string-array>
@@ -13,6 +15,8 @@
         <item>China Unicom</item>
         <item>China Mobile</item>
         <item>China Telecom</item>
+        <item>China Telecom</item>
+        <item>China Unicom</item>
         <item>China Mobile</item>
         <item>China Telecom</item>
     </string-array>
@@ -46,18 +50,19 @@
         <item>Y</item>
         <item>Z</item>
     </string-array>
+    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
+    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
+    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>46000</item>
         <item>46001</item>
         <item>46000</item>
         <item>46003</item>
+        <item>46003</item>
+        <item>46001</item>
         <item>46000</item>
         <item>46003</item>
     </string-array>
-    <item type="array" name="android_config_virtualKeyVibePattern">@android:array/config_virtualKeyVibePattern</item>
-    <item type="array" name="android_config_mobile_hotspot_provision_app">@android:array/config_mobile_hotspot_provision_app</item>
-    <item type="array" name="android_common_nicknames">@android:array/common_nicknames</item>
     <item type="array" name="android_config_longPressVibePattern">@android:array/config_longPressVibePattern</item>
     <item type="array" name="android_config_keyboardTapVibePattern">@android:array/config_keyboardTapVibePattern</item>
-    <item type="array" name="android_config_statusBarIcons">@android:array/config_statusBarIcons</item>
 </resources>
