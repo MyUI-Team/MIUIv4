@@ -1,44 +1,83 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<item type="string" name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</item>
-<item type="string" name="android_common_name_conjunctions">@android:string/common_name_conjunctions</item>
-<item type="string" name="android_common_name_prefixes">@android:string/common_name_prefixes</item>
-<item type="string" name="android_common_name_suffixes">@android:string/common_name_suffixes</item>
-<item type="string" name="android_dial_number_using">@android:string/dial_number_using</item>
-<item type="string" name="android_factorytest_reboot">@android:string/factorytest_reboot</item>
-<item type="string" name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</item>
-<item type="string" name="android_global_actions_airplane_mode_on_status">@android:string/global_actions_airplane_mode_on_status</item>
-<item type="string" name="android_global_actions_toggle_airplane_mode">@android:string/global_actions_toggle_airplane_mode</item>
-<item type="string" name="android_lockscreen_charged">@android:string/lockscreen_charged</item>
-<item type="string" name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</item>
-<item type="string" name="android_lockscreen_instructions_when_pattern_disabled">@android:string/lockscreen_instructions_when_pattern_disabled</item>
-<item type="string" name="android_lockscreen_low_battery">@android:string/lockscreen_low_battery</item>
-<item type="string" name="android_lockscreen_missing_sim_instructions">@android:string/lockscreen_missing_sim_instructions</item>
-<item type="string" name="android_lockscreen_missing_sim_message_short">@android:string/lockscreen_missing_sim_message_short</item>
-<item type="string" name="android_lockscreen_network_locked_message">@android:string/lockscreen_network_locked_message</item>
-<item type="string" name="android_lockscreen_plugged_in">@android:string/lockscreen_plugged_in</item>
-<item type="string" name="android_lockscreen_sim_locked_message">@android:string/lockscreen_sim_locked_message</item>
-<item type="string" name="android_lockscreen_sim_puk_locked_instructions">@android:string/lockscreen_sim_puk_locked_instructions</item>
-<item type="string" name="android_lockscreen_sim_puk_locked_message">@android:string/lockscreen_sim_puk_locked_message</item>
-<item type="string" name="android_megabyteShort">@android:string/megabyteShort</item>
-<item type="string" name="android_power_off">@android:string/power_off</item>
-<item type="string" name="android_report">@android:string/report</item>
-<item type="string" name="android_ringtone_default_with_actual">@android:string/ringtone_default_with_actual</item>
-<item type="string" name="android_ringtone_silent">@android:string/ringtone_silent</item>
-<item type="string" name="android_ringtone_unknown">@android:string/ringtone_unknown</item>
-<item type="string" name="android_shutdown_confirm">@android:string/shutdown_confirm</item>
-<item type="string" name="android_silent_mode_ring">@android:string/silent_mode_ring</item>
-<item type="string" name="android_silent_mode_silent">@android:string/silent_mode_silent</item>
-<item type="string" name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</item>
-<item type="string" name="android_ssl_certificate">@android:string/ssl_certificate</item>
-<item type="string" name="android_twelve_hour_time_format">@android:string/twelve_hour_time_format</item>
-<item type="string" name="android_twenty_four_hour_time_format">@android:string/twenty_four_hour_time_format</item>
-<item type="string" name="android_volume_alarm">@android:string/volume_alarm</item>
-<item type="string" name="android_volume_icon_description_bluetooth">@android:string/volume_icon_description_bluetooth</item>
-<item type="string" name="android_volume_icon_description_incall">@android:string/volume_icon_description_incall</item>
-<item type="string" name="android_volume_icon_description_media">@android:string/volume_icon_description_media</item>
-<item type="string" name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</item>
-<item type="string" name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</item>
-<item type="string" name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</item>
-<item type="string" name="android_phoneTypeMms">@android:string/phoneTypeMms</item>
+<?xml version="1.0" encoding="utf-8"?> <resources> <string name="reboot_confirm">Telefon bude restartován</string> <string 
+name="reboot_progress">Restartuji...</string> <string name="resourcebrowser_lable">Zdroje</string> <string 
+name="sdcard_status_changed_dialog_title">Stav karty SD byl zmenen</string> <string name="sdcard_status_changed_dialog_message">Ukoncuji aplikaci. 
+Spustte ji prosím znovu pro obnovení</string> <string name="resource_transparent_wallpaper">Pruhledné</string> <string 
+name="resource_mute">Nic</string> <string name="resource_default">Výchozí vyzvánecí tón</string> <string name="resource_ringtone_default">Vyzvánecí 
+tóny</string> <string name="resource_notification_default">Upozornení</string> <string name="resource_alarm_default">Budík</string> <string 
+name="description_unknown">Neznámý</string> <string name="description_missed">Neprijaté</string> <string 
+name="description_designer">Designer:</string> <string name="description_author">Autor:</string> <string name="description_size">Velikost:</string> 
+<string name="description_modifiedtime">Upraveno:</string> <string name="description_download">Staženo:</string> <string 
+name="description_version">Verze:</string> <string name="description_file">Soubor:</string> <string name="resource_local">Místní %1$s</string> <string 
+name="resource_online">Online %1$s</string> <string name="resource_title">Detaily zdroje</string> <string name="resource_download">Staženo</string> 
+<string name="resource_downloading">Stahuji</string> <string name="resource_apply">Použít</string> <string 
+name="resource_update">Aktualizovat</string> <string name="resource_select">Vybrat</string> <string name="online_hottest">Nejctenejší</string> <string 
+name="online_latest">Poslední</string> <string name="online_hottest_short">Nejctenejší</string> <string name="online_latest_short">Poslední</string> 
+<string name="online_no_network">Nemohu se pripojit k síti</string> <string name="online_search_hint">Hledat zdroje online</string> <string 
+name="loading">Nahrávám...</string> <string name="download_failed">Stažení selhalo</string> <string name="download_preview_failed">Nactení náhledu 
+selhalo</string> <string name="invalid_url">Neplatná adresa:</string> <string name="resource_delete_confirm">Jste si jist, že chcete smazat tento 
+zdroj?</string> <string name="all_resources">Vše</string> <string name="resource_default_name">Zdroj</string> <string 
+name="resource_detail">Detaily</string> <string name="lockscreen_time_bottom_hint">Pretáhnete smerem dolu pro odemcení</string> <string 
+name="lockscreen_call_bottom_hint">Pretáhnete smerem dolu pro otevrení volání</string> <string name="lockscreen_sms_bottom_hint">Pretáhnete smerem 
+dolu pro otevrení zpráv</string> <string name="lock_screen_date">EEEE, MMMM d</string> <string name="lockscreen_unlock_sim_via_puk">Vložte kód PUK pro 
+odemcení Vaší SIM karty</string> <string name="safetylegal_activity_unreachable">Váš telefon není pripojen k datové službe. Pro zobrazení této 
+informace si v jakémkoliv pocítaci s prístupem na internet otevrete adresu %s</string> <string name="miui_copyright_title">Vlastnická práva</string> 
+<string name="miui_user_agreement_title">Uživatelská smlouva</string> <string name="miui_privacy_policy_title">Pravidla soukromí</string> <string 
+name="user_agreement1">Budete používat systém a online služby spolecnosti Xiaomi, prosím ctete</string> <string name="user_agreement2">Uživatelská 
+smlouva</string> <string name="user_agreement3">"a"</string> <string name="user_agreement4">Pravidla soukromí</string> <string 
+name="user_agreement5">, kliknutím na OK potvrzujete svuj souhlas s výše uvedeným obsahem, kliknutím na Zrušit akci prerušíte.</string> <string 
+name="sd_not_available">SD karta byla odpojena nebo není dostupná</string> <string name="sd_not_available_use_internal_storage">SD karta není 
+dostupná, uloženo na interní úložište</string> <string name="sd_not_available_low_internal_storage">SD karta byla odpojena nebo není dostupná, interní 
+úložište nemá dostatek volného místa</string> <string name="sd_not_available_saved_to_internal_storage">Uloženo na interní úložište</string> <string 
+name="unknown">Neznámé císlo</string> <string name="private_num">Soukromé císlo</string> <string name="payphone">Verejné císlo</string> <string 
+name="callNoAnswerTimeFormat">Zvonilo %s krát</string> <string name="firewall_setting">Firewall</string> <string 
+name="keyguard_incorrect_pin_with_retry_count">Zbývá %d pokusu</string> <string name="caller_info_name_delimiter">Nebo</string> <string 
+name="first_back_long_press_title">Chování klávesy zpet.</string> <string name="first_back_long_press_message">"Prejete si zapnout funkci dlouhého 
+stisku klávesy Zpet? Dlouhý stisk klávesy Zpet zabije aktivní aplikaci v popredí, a jejích procesy v pozadí. Funkci mužete zapnout pres Nastavení > 
+Systém > Nastavení tlacítek"</string> <string name="force_exit_message">Úspešne ukonceno \"%1$s\"</string> <string 
+name="global_action_toggle_privacy_mode">Zabezpecení</string> <string name="global_action_privacy_mode_on_status">Zabezpecený režim je 
+aktivní.</string> <string name="global_action_privacy_mode_on_toast">Zabezpecený režim je aktivní. Volání a zprávy jsou skryty a launcher nemuže 
+aktivovat editacní režim.</string> <string name="global_action_privacy_mode_dialog_message">V zabezpeceném režimu jsou volání a zprávy skryty a 
+launcher nebude moci aktivovat editacní režim.</string> <string name="global_action_privacy_mode_off_status">Zabezpecený režim není aktivní.</string> 
+<string name="delete">Smazat</string> <string name="select_all">Vybrat vše</string> <string name="reverse_all">Odznacit vše</string> <string 
+name="multi_select_title">Vybráno %1$s</string> <item type="string" 
+name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</item> <item type="string" 
+name="android_common_name_conjunctions">@android:string/common_name_conjunctions</item> <item type="string" 
+name="android_common_name_prefixes">@android:string/common_name_prefixes</item> <item type="string" 
+name="android_common_name_suffixes">@android:string/common_name_suffixes</item> <item type="string" 
+name="android_dial_number_using">@android:string/dial_number_using</item> <item type="string" 
+name="android_factorytest_reboot">@android:string/factorytest_reboot</item> <item type="string" 
+name="android_fast_scroll_alphabet">@android:string/fast_scroll_alphabet</item> <item type="string" 
+name="android_global_actions_airplane_mode_on_status">@android:string/global_actions_airplane_mode_on_status</item> <item type="string" 
+name="android_global_actions_toggle_airplane_mode">@android:string/global_actions_toggle_airplane_mode</item> <item type="string" 
+name="android_lockscreen_charged">@android:string/lockscreen_charged</item> <item type="string" 
+name="android_lockscreen_emergency_call">@android:string/lockscreen_emergency_call</item> <item type="string" 
+name="android_lockscreen_instructions_when_pattern_disabled">@android:string/lockscreen_instructions_when_pattern_disabled</item> <item type="string" 
+name="android_lockscreen_low_battery">@android:string/lockscreen_low_battery</item> <item type="string" 
+name="android_lockscreen_missing_sim_instructions">@android:string/lockscreen_missing_sim_instructions</item> <item type="string" 
+name="android_lockscreen_missing_sim_message_short">@android:string/lockscreen_missing_sim_message_short</item> <item type="string" 
+name="android_lockscreen_network_locked_message">@android:string/lockscreen_network_locked_message</item> <item type="string" 
+name="android_lockscreen_plugged_in">@android:string/lockscreen_plugged_in</item> <item type="string" 
+name="android_lockscreen_sim_locked_message">@android:string/lockscreen_sim_locked_message</item> <item type="string" 
+name="android_lockscreen_sim_puk_locked_instructions">@android:string/lockscreen_sim_puk_locked_instructions</item> <item type="string" 
+name="android_lockscreen_sim_puk_locked_message">@android:string/lockscreen_sim_puk_locked_message</item> <item type="string" 
+name="android_megabyteShort">@android:string/megabyteShort</item> <item type="string" name="android_power_off">@android:string/power_off</item> <item 
+type="string" name="android_report">@android:string/report</item> <item type="string" 
+name="android_ringtone_default_with_actual">@android:string/ringtone_default_with_actual</item> <item type="string" 
+name="android_ringtone_silent">@android:string/ringtone_silent</item> <item type="string" 
+name="android_ringtone_unknown">@android:string/ringtone_unknown</item> <item type="string" 
+name="android_shutdown_confirm">@android:string/shutdown_confirm</item> <item type="string" 
+name="android_silent_mode_ring">@android:string/silent_mode_ring</item> <item type="string" 
+name="android_silent_mode_silent">@android:string/silent_mode_silent</item> <item type="string" 
+name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</item> <item type="string" 
+name="android_ssl_certificate">@android:string/ssl_certificate</item> <item type="string" 
+name="android_twelve_hour_time_format">@android:string/twelve_hour_time_format</item> <item type="string" 
+name="android_twenty_four_hour_time_format">@android:string/twenty_four_hour_time_format</item> <item type="string" 
+name="android_volume_alarm">@android:string/volume_alarm</item> <item type="string" 
+name="android_volume_icon_description_bluetooth">@android:string/volume_icon_description_bluetooth</item> <item type="string" 
+name="android_volume_icon_description_incall">@android:string/volume_icon_description_incall</item> <item type="string" 
+name="android_volume_icon_description_media">@android:string/volume_icon_description_media</item> <item type="string" 
+name="android_volume_icon_description_notification">@android:string/volume_icon_description_notification</item> <item type="string" 
+name="android_volume_icon_description_ringer">@android:string/volume_icon_description_ringer</item> <item type="string" 
+name="android_wifi_tether_configure_ssid_default">@android:string/wifi_tether_configure_ssid_default</item> <item type="string" 
+name="android_phoneTypeMms">@android:string/phoneTypeMms</item>
 </resources>
