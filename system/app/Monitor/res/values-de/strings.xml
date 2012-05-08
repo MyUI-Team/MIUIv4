@@ -48,7 +48,7 @@
 <string name="tether_settings_title_usb_bluetooth">USB Bluetooth Tethering</string>
 <string name="tether_settings_title_all">Netzwerk und Tethering</string>
 <string name="data_usage_uninstalled_apps">Gelöschte Apps</string>
-<string name="data_usage_cycle_editor_subtitle">Datum：</string>
+<string name="data_usage_cycle_editor_subtitle">Datum</string>
 <string name="data_usage_cycle_editor_positive">OK</string>
 <string name="data_usage_label_foreground">Vordergrund:%s</string>
 <string name="data_usage_label_background">Hintergrund:%s</string>
