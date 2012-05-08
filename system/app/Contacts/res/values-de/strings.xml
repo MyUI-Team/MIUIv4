@@ -73,7 +73,7 @@
 <string name="postalLabelsGroup">Adresse</string>
 <string name="photoPickerNotFoundText">Auf dem Telefon sind keine Bilder verfügbar.</string>
 <string name="attach_photo_dialog_title">Kontaktbild</string>
-<string name="customLabelPickerTitle">Name des benutzerdefinierten Labels</string>
+<string name="customLabelPickerTitle">Name der benutzerdefinierten Beschriftung</string>
 <string name="removePhoto">Foto entfernen</string>
 <string name="noContacts">Keine Kontakte</string>
 <string name="noGroups">Keine Gruppen</string>
