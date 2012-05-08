@@ -47,8 +47,8 @@
 <string name="alarm_volume_title">Lautstärke für Wecker</string>
 <string name="alarm_volume_summary">Lautstärke des Weckers einstellen</string>
 <string name="silent_alarm_summary">Lautlos-Modus</string>
-<string name="alarm_notify_text">Für Snooze oder Beenden auswählen</string>
-<string name="alarm_notify_snooze_label">%s (Snooze)</string>
+<string name="alarm_notify_text">Für Schlummern oder Beenden auswählen</string>
+<string name="alarm_notify_snooze_label">%s (Schlummern)</string>
 <string name="alarm_notify_snooze_text">Wecker für %s gestellt. Zum Abbrechen auswählen.</string>
 <string name="volume_button_setting_title">Lautstärketasten</string>
 <string name="volume_button_dialog_title">Tasteneffekt</string>
@@ -74,7 +74,7 @@
 <string name="timer_title">Timer</string>
 <string name="menu_add_worldclock">Neue Zeitzone</string>
 <string name="menu_worldclock_edit">Weltzeituhr ändern</string>
-<string name="menu_alarmclock_edit">Alarm ändern</string>
+<string name="menu_alarmclock_edit">Wecker ändern</string>
 <string name="menu_delete">Löschen</string>
 <string name="menu_edit_systemtime">Systemzeit ändern</string>
 <string name="delete_timezone_title">Zeitzone löschen</string>
@@ -84,7 +84,7 @@
 <string name="timezone_search_hint">Nach Stadt suchen</string>
 <string name="alarm_disabled">Deaktiviert</string>
 <string name="alarm_ascending_mode_title">Alarm ansteigend</string>
-<string name="alarm_ascending_mode_summary">Ansteigende Alarmlautstärke.</string>
+<string name="alarm_ascending_mode_summary">Ansteigende Weckerlautstärke.</string>
 <string name="slide_down_delelte_alarm">Runterziehen zum beenden</string>
 <string name="start">Start</string>
 <string name="pause">Pause</string>
@@ -93,7 +93,7 @@
 <string name="timer_continue">Weiter</string>
 <string name="elapsed_hour">%d Stunden</string>
 <string name="worldclock_empty_text">Keine Weltzeit</string>
-<string name="alarmclock_empty_text">Kein Alarm</string>
+<string name="alarmclock_empty_text">Kein Wecker</string>
 <string name="timer_got_it">OK</string>
 <string name="timer_start_alarm">Zeit abgelaufen</string>
 <string name="dialog_confirm_abort">Wollen Sie Ihre Änderungen verwerfen?</string>
