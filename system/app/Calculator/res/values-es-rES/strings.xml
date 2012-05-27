@@ -3,7 +3,9 @@
 <string name="app_name">Calculadora</string>
 <string name="error">Formato incorrecto</string>
 <string name="del">BORRAR</string>
+<string name="clear">BOR</string>
 <string name="basic">Calculadora sencilla</string>
 <string name="advanced">Calculadora científica</string>
 <string name="clear_history">Borrar historial</string>
+<string name="text_copied_toast">Texto copiado.</string>
 </resources>
