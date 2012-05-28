@@ -130,6 +130,7 @@
 <string name="type_missed">Llamada perdida</string>
 <string name="type_voicemail">Buzón de llamada</string>
 <string name="callBack">Volver a llamar</string>
+<string name="callDetailsDurationFormat" formatted="false">%s mins %s segs</string>
 <string name="favoritesFrequentContacted">Contacto frecuente</string>
 <string name="favoritesFrequentCalled">Llamada frecuente</string>
 <string name="add_contact_dlg_title">Añadir contacto</string>
@@ -182,6 +183,7 @@
 <string name="vcard_export_will_start_message">%s será exportado en breves.</string>
 <string name="vcard_export_request_rejected_message">La exportación solicitada ha sido recharazada. Por favor, intentar más tarde</string>
 <string name="vcard_unknown_filename">contacto</string>
+<string name="percentage">%s%%</string>
 <string name="confirm_export_title">Confirmar la exportación</string>
 <string name="confirm_export_message">¿Estás seguro de que quieres exportar tu lista de contactos a \"%s\"?</string>
 <string name="exporting_contact_failed_title">Error al exportar los datos del contacto</string>
@@ -226,6 +228,12 @@
 <string name="groupsLabel">Grupos</string>
 <string name="dialog_new_contact_account">Crear contacto en la cuenta</string>
 <string name="dialog_new_group_account">Crear un grupo en tu cuenta</string>
+<string name="menu_sync_remove">Eliminar sincronización de grupo</string>
+<string name="dialog_sync_add">Añadir sincronización de grupo</string>
+<string name="display_more_groups">Mas grupos...</string>
+<string name="display_ungrouped">Resto de contactos</string>
+<string name="display_all_contacts">Todos los contactos</string>
+<string name="display_warn_remove_ungrouped">"Eliminando '%s' de la sincronización también elminará cualquier contacto que no este en un grupo sincronizado."</string>
 <string name="account_phone">Solo en el teléfono (no sincronizado)</string>
 <string name="call_custom">Llamar a %s</string>
 <string name="call_home">Llamar a casa</string>
@@ -269,6 +277,7 @@
 <string name="sms_work_pager">Enviar SMS al buscapersonas del trabajo</string>
 <string name="sms_assistant">Enviar un mensaje de texto a %s</string>
 <string name="sms_mms">Enviar un mensaje de texto a MMS</string>
+<string name="sms">Mensaje de texto</string>
 <string name="email_home">Enviar email a casa</string>
 <string name="email_mobile">Enviar email al móvil</string>
 <string name="email_work">Enviar email a trabajo</string>
@@ -288,11 +297,15 @@
 <string name="chat_icq">Chatear con ICQ</string>
 <string name="chat_jabber">Chatear con Jabber</string>
 <string name="chat">Chat</string>
+<string name="audio_chat">Chat de audio</string>
+<string name="video_chat">Video chat</string>
+<string name="postal_address">Dirección</string>
 <string name="postal_street">Calle</string>
 <string name="postal_city">Ciudad</string>
 <string name="postal_region">Provincia/Estado</string>
 <string name="postal_postcode">Código postal</string>
 <string name="postal_country">País</string>
+<string name="full_name">Nombre</string>
 <string name="contact_read_only">No se puede editar la información del contacto de %1$s en este dispositivo.</string>
 <string name="search_bar_hint">Buscar contactos</string>
 <string name="locale_change_in_progress">"La lista de contactos se está actualizando para reflejar el cambio de idioma.Por favor, espera..."</string>
